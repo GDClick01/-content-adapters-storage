@@ -1,0 +1,1 @@
+# -content-adapters-storage
